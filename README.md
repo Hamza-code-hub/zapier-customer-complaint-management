@@ -2,7 +2,8 @@
 
 Automate the entire customer complaint handling process — from form submission to final resolution email — using **Zapier**, **Google Forms**, **Google Sheets**, and **Gmail**.
 
-[![Watch the Demo](https://youtu.be/_L9YGzDUPz0?si=kagUv1NmmY1vJwJJ.jpg)](https://youtu.be/_L9YGzDUPz0?si=kagUv1NmmY1vJwJJ)
+[![Watch the Complaint Management Demo](https://img.youtube.com/vi/_L9YGzDUPz0/hqdefault.jpg)](https://youtu.be/_L9YGzDUPz0)
+
 
 ---
 
@@ -44,7 +45,8 @@ Automate the entire customer complaint handling process — from form submission
 
 Click the thumbnail below to watch:
 
-[![Zapier Complaint Automation](https://img.youtube.com/vi/vOSjd0YtqDM/hqdefault.jpg)](https://youtu.be/vOSjd0YtqDM)
+[![Watch the Complaint Management Demo](https://img.youtube.com/vi/_L9YGzDUPz0/hqdefault.jpg)](https://youtu.be/_L9YGzDUPz0)
+
 
 ---
 
@@ -55,6 +57,4 @@ Click the thumbnail below to watch:
 - Internal service ticket workflows
 
 ---
-
-This project is open-source under the [MIT License](LICENSE).
 
